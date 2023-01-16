@@ -15,6 +15,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <h1>Movies App con next js</h1>
+      <p>Peliculas de muestra</p>
     </>
   )
 }
